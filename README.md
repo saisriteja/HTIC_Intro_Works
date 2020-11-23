@@ -34,3 +34,12 @@ what is the minimum between the point and the sphere using newton approximation 
 shortest point on the cylinder to get contact [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/saisriteja/htic_works/blob/main/least_distance_from_point_to_cylinder.ipynb
 )
 
+ ## task5
+ the python file move_manipulator.py have the codes for 
+ cartesian coordinate and joint space movement
+ <br>
+ adding 3d objects into space
+ <br>
+ collision detection
+ <br>
+ 
