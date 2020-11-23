@@ -1,10 +1,6 @@
 # htic
 
 
-rotational matrices                         
-Euler angles (6-7 combinations)    
-axis angle representation              
-quaternion    
 ## task1
  euler angles, rotational matrices, axis angle representation, quaternions  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/saisriteja/htic_works/blob/main/taskone.ipynb
 )
